@@ -20,7 +20,7 @@ OpticalFlip is a simple to use NFT Minting game used to mint NFT's on the Optimi
 5. [Optional] navigate to src/util/PinataConnection.js, in line 4 & 5: to change the API key and API secret of your pinata account, if you choose to use yours. (By default there is a Test API Key and API Secret there).
 6. run: npm run start.
 
-https://github.com/gabrieltemtsen/opticalflip/blob/main/src/images/demo.png
+![https://github.com/gabrieltemtsen/opticalflip/blob/main/src/images/demo.png]
 **Live Demo** : https://opticalflip.netlify.app/
 
 ## How to deploy the ERC721 Contract on the Optimism Testnet
